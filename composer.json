@@ -7,6 +7,7 @@
             "email": "myvo.top@gmail.com"
         }
     ],
+    "type":"laravel-module",
     "extra": {
         "laravel": {
             "providers": [],
@@ -26,6 +27,7 @@
         }
     },
     "require": {
-        "spatie/laravel-permission": "^3.18"
+        "spatie/laravel-permission": "^3.18",
+        "laravel/passport": "^10.1"
     }
 }
