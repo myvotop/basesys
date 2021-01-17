@@ -53,6 +53,12 @@ class BaseSysServiceProvider extends ServiceProvider
         $this->mergeConfigFrom(
             module_path($this->moduleName, 'Config/config.php'), $this->moduleNameLower
         );
+        $this->publishes([
+            module_path($this->moduleName, 'Config/permission.php') => config_path($this->moduleNameLower . '.php'),
+        ], 'permission');
+        $this->mergeConfigFrom(
+            module_path($this->moduleName, 'Config/permission.php'), $this->moduleNameLower
+        );
     }
 
     /**
