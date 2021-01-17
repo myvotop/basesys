@@ -1,0 +1,13 @@
+{
+    "name": "BaseSys",
+    "alias": "basesys",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BaseSys\\Providers\\BaseSysServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
