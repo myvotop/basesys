@@ -28,6 +28,7 @@
     },
     "require": {
         "spatie/laravel-permission": "^3.18",
-        "laravel/passport": "^10.1"
+        "laravel/passport": "^10.1",
+        "livewire/livewire": "^2.3"
     }
 }
