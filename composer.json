@@ -31,6 +31,7 @@
         "laravel/passport": "^10.1",
         "livewire/livewire": "^2.3",
         "igaster/laravel-theme": "^2.0",
-        "laravelcollective/html": "^6.2"
+        "laravelcollective/html": "^6.2",
+        "mhmiton/laravel-modules-livewire": "dev-master"
     }
 }
