@@ -16,6 +16,7 @@ class BaseSysDatabaseSeeder extends Seeder
     {
         Model::unguard();
 
-        // $this->call("OthersTableSeeder");
+        // $this->call(PermissionTableSeeder::class);
+        $this->call(MarketPlaceTableSeeder::class);
     }
 }

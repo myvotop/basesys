@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3cd43d88e340a7b3382a7f48af73a598",
+    "content-hash": "eca7ec13a91202e5137f44d571903ef6",
     "packages": [
         {
             "name": "brick/math",
@@ -2169,16 +2169,16 @@
         },
         {
             "name": "mhmiton/laravel-modules-livewire",
-            "version": "dev-master",
+            "version": "v1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mhmiton/laravel-modules-livewire.git",
-                "reference": "137d879ab8836f90a082604e4ee776ef50f35ecb"
+                "reference": "c7af1851c18addb5398734740b8c29f731b567bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mhmiton/laravel-modules-livewire/zipball/137d879ab8836f90a082604e4ee776ef50f35ecb",
-                "reference": "137d879ab8836f90a082604e4ee776ef50f35ecb",
+                "url": "https://api.github.com/repos/mhmiton/laravel-modules-livewire/zipball/c7af1851c18addb5398734740b8c29f731b567bb",
+                "reference": "c7af1851c18addb5398734740b8c29f731b567bb",
                 "shasum": ""
             },
             "require": {
@@ -2187,7 +2187,6 @@
             "require-dev": {
                 "laravel/framework": "^7.0|^8.0"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "laravel": {
@@ -2223,9 +2222,9 @@
             ],
             "support": {
                 "issues": "https://github.com/mhmiton/laravel-modules-livewire/issues",
-                "source": "https://github.com/mhmiton/laravel-modules-livewire/tree/master"
+                "source": "https://github.com/mhmiton/laravel-modules-livewire/tree/v1.1"
             },
-            "time": "2021-01-17T15:30:00+00:00"
+            "time": "2021-02-03T19:20:25+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -5489,9 +5488,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "mhmiton/laravel-modules-livewire": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
