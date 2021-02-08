@@ -32,6 +32,7 @@
         "livewire/livewire": "^2.3",
         "igaster/laravel-theme": "^2.0",
         "laravelcollective/html": "^6.2",
-        "mhmiton/laravel-modules-livewire": "dev-master"
+        "mhmiton/laravel-modules-livewire": "dev-master",
+        "symfony/yaml": "^5.2"
     }
 }
