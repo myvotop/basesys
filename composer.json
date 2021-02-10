@@ -33,6 +33,7 @@
         "igaster/laravel-theme": "^2.0",
         "laravelcollective/html": "^6.2",
         "mhmiton/laravel-modules-livewire": "^1.1",
-        "symfony/yaml": "^5.2"
+        "symfony/yaml": "^5.2",
+        "nwidart/laravel-menus": "^7.0"
     }
 }
