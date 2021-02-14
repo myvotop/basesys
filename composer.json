@@ -30,10 +30,10 @@
         "spatie/laravel-permission": "^3.18",
         "laravel/passport": "^10.1",
         "livewire/livewire": "^2.3",
-        "igaster/laravel-theme": "^2.0",
         "laravelcollective/html": "^6.2",
         "mhmiton/laravel-modules-livewire": "^1.1",
         "symfony/yaml": "^5.2",
-        "nwidart/laravel-menus": "^7.0"
+        "nwidart/laravel-menus": "^7.0",
+        "spatie/laravel-menu": "^3.7"
     }
 }
